@@ -1,3 +1,6 @@
 pandas
 matplotlib
 mne
+natsort
+networkx
+ts2gv
