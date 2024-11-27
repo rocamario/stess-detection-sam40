@@ -4,3 +4,7 @@ mne
 natsort
 networkx
 seaborn
+xgboost
+scikit-learn
+mord
+
