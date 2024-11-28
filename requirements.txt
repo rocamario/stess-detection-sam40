@@ -1,10 +1,12 @@
-pandas
 matplotlib
 mne
+mord
 natsort
 networkx
-seaborn
-xgboost
+numpy
+pandas
 scikit-learn
-mord
-
+scipy
+seaborn
+warnings
+xgboost
